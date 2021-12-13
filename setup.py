@@ -20,6 +20,7 @@ REQUIRED = [
     "cython",
     "h5py",
     "zarr>=2.4.0",
+    "imagecodecs",
     "joblib",
     "lazy-property",
     "scikit-image",
